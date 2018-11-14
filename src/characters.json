@@ -1,0 +1,109 @@
+[
+{
+  "id":1,
+  "name": "Homer Simpson",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png",
+  "occupation": "Radiation Plant Safety Inspector",
+  "location": "Springfield"
+},
+
+{
+  "id":2,
+  "name": "Bumblebee Man",
+  "image": "https://static.simpsonswiki.com/images/1/17/Bumblebee_Man.png",
+  "occupation": "Star of Canal Ocho",
+  "location": "Springfield"
+},
+{
+  "id":3,
+  "name": "Comic Book Guy",
+  "image":"https://static.simpsonswiki.com/images/9/9d/Comic_Book_Guy.png" ,
+  "occupation": "Proprietor of The Android's Dungeon comic book store",
+  "location": "Springfield"
+},
+{
+  "id":4,
+  "name": "Duffman",
+  "image": "https://static.simpsonswiki.com/images/e/ed/Duffman.png" ,
+  "occupation": "Spokes-mascot for Duff Beer",
+  "location": "Springfield"
+},
+{
+  "id":5,
+  "name": "Fat Tony",
+  "image":"https://static.simpsonswiki.com/images/e/ec/Fat_Tony.png" ,
+  "occupation": "Mob Boss",
+  "location": "Springfield"
+},
+{
+  "id":6,
+  "name": "Ned Flanders",
+  "image":"https://static.simpsonswiki.com/images/8/84/Ned_Flanders.png" ,
+  "occupation": "Teacher",
+  "location": "Springfield"
+},
+{
+  "id":7,
+  "name": "Krusty",
+  "image":"https://static.simpsonswiki.com/images/1/17/Krusty_the_Clown.png",
+  "occupation": "The Clown",
+  "location": "Springfield"
+},
+{
+  "id":8,
+  "name": "Apu",
+  "image":"https://static.simpsonswiki.com/images/7/7d/Apu_Nahasapeemapetilon.png" ,
+  "occupation": "Operator at Kwik-E-Mart",
+  "location": "Springfield"
+},
+{
+  "id":9,
+  "name": "Bart Simpson",
+  "image":"https://static.simpsonswiki.com/images/6/65/Bart_Simpson.png",
+  "occupation": "Student",
+  "location": "Springfield"
+},
+{
+  "id":10,
+  "name": "Ralph Wiggum",
+  "image":"https://static.simpsonswiki.com/images/1/14/Ralph_Wiggum.png",
+  "occupation": "Student",
+  "location": "Springfield"
+},
+{
+  "id":11,
+  "name": "Barney Gumble",
+  "image":"https://static.simpsonswiki.com/images/d/de/Barney_Gumble.png",
+  "occupation": "Homer's drunken old pal",
+  "location": "Springfield"
+},
+{
+  "id":12,
+  "name": "Moe Szyslak",
+  "image":"https://static.simpsonswiki.com/images/8/80/Moe_Szyslak.png" ,
+  "occupation": "Owner of Moe's Tavern",
+  "location": "Springfield"
+},
+{
+  "id":13,
+  "name": "Lisa Simpson",
+  "image":"https://static.simpsonswiki.com/images/e/ec/Lisa_Simpson.png" ,
+  "occupation": "Student",
+  "location": "Springfield"
+},
+{
+  "id":14,
+  "name": "Santa's Little Helper",
+  "image":"https://static.simpsonswiki.com/images/2/2c/Santa%27s_Little_Helper.png" ,
+  "occupation": "The Simpson family's pet dog",
+  "location": "Springfield"
+},
+{
+  "id":15,
+  "name": "Sideshow Mel",
+  "image":"https://static.simpsonswiki.com/images/0/02/Sideshow_Mel.png",
+  "occupation": "Krusty the Clown Show sidekick",
+  "location": "Springfield"
+}
+
+]

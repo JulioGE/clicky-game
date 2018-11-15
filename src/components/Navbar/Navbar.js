@@ -1,28 +1,11 @@
-import React from 'react';
-import { Link } from "react-router-dom";
+import React from "react";
 import "./Navbar.css";
 
-const Navbar = props => (
-  <nav className="navbar navbar-expand-lg navbar-light bg-dark">
-    <Link className="navbar-brand" to="/">
-      Clicky Game
-    </Link>
-    <div>
-      <ul className="navbar-nav">
-        <li className="nav-item">
-          <Link
-            to="/"
-            className={
-              window.location.pathname === "/" || window.location.pathname === "/about"
-                ? "nav-link active"
-                : "nav-link"
-            }
-          >
-            
-          </Link>
-        </li>
-      </ul>
-    </div>
+// By importing the Navbar.css file, it is added to the DOM whenever this component loads
+
+const Navbar = () => (
+  <nav className="navbar">
+    <a href="/">Clicky Game</a>
   </nav>
 );
 

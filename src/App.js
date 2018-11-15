@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 import CharacterCard from "./components/CharacterCard";
 import Navbar from "./components/Navbar";
 import Wrapper from "./components/Wrapper";
@@ -22,6 +22,8 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
+       
+        <Navbar />
         <Title>Characters List</Title>
         {this.state.characters.map(character => (
           <CharacterCard
@@ -30,12 +32,11 @@ class App extends Component {
             key={character.id}
             name={character.name}
             image={character.image}
-            occupation={character.occupation}
-            location={character.location}
+          
             />
         ))}
       </Wrapper>
-    )
+    );
   }
 }
   

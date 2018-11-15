@@ -9,14 +9,9 @@ const CharacterCard = props => (
     <div className="content">
       <ul>
         <li>
-          <strong>Name:</strong> {props.name}
+          <p>Name:</p> {props.name}
         </li>
-        <li>
-          <strong>Occupation:</strong> {props.occupation}
-        </li>
-        <li>
-          <strong>Location:</strong> {props.location}
-        </li>
+       
       </ul>
     </div>
     <span onClick={() => props.removeFriend(props.id)} className="remove">

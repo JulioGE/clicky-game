@@ -14,7 +14,7 @@ const CharacterCard = props => (
        
       </ul>
     </div>
-    <span onClick={() => props.removeFriend(props.id)} className="remove">
+    <span onClick={() => props.removeCharacter(props.id)} className="remove">
       𝘅
     </span>
   </div>
